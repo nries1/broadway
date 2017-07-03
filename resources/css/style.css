@@ -27,11 +27,18 @@ ul {
   font-weight: bold;
 }
 
-#process h3 {
+h3 {
   font-size: 23px;
   font-weight: bold;
 }
 
-#process p {
+p {
   font-size: 14px;
+}
+
+#smallBanner {
+  background-image: url("../images/background.png");
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
 }
