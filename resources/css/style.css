@@ -4,12 +4,20 @@ html {
 }
 
 #home {
-  font-size: 18px;
+  background-image: url("../images/background.png");
+}
+
+#home a {
   color: white;
-  background-image: url("resources/images/background.png");
+  font-size: 18px;
+}
+
+ul {
+  list-style-type: none;
 }
 
 #home h1 {
   font-size: 70px;
   font-weight: bold;
+  color: white;
 }
