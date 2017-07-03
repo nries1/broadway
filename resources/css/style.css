@@ -7,12 +7,13 @@ html {
   background-image: url("../images/background.png");
 }
 
-#home a {
+a {
   color: white;
   font-size: 18px;
 }
 
 ul {
+  padding: 0;
   list-style-type: none;
 }
 
@@ -41,4 +42,14 @@ p {
   color: white;
   font-size: 23px;
   font-weight: bold;
+}
+
+#footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+#copywrite {
+  font-size: 11px;
 }
